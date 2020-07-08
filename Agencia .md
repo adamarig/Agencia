@@ -6,7 +6,7 @@
 
 - Hotel.
 - Autobus.
-- Servicio de Pago Directo con tu banco de preferencia.
+- Banco.
 
 
 
@@ -29,3 +29,11 @@
 
  
 
+**Funcionamiento de Banco:**
+
+Realización:
+
+1. Registro de  pagos 
+2. Para  el registro  es necesario un número de tarjeta de 16 dígitos.
+3. Pin de 4 dígitos. 
+4.  Cantidad a pagar, tambien  permite hacer reembolsos, para esto es necesario el número de tarjeta y la cantidad del monto pagado.

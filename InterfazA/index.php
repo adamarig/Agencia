@@ -69,6 +69,7 @@
                         <li class="nav-item">
                             <a href="/paneladministrador" class="nav-link waves-effect">
                               <a href="ConsultarViaje.php">Consultar Boleto</a>
+                                 <li><a href="ModificarViaje.php"> Modificar los datos del viaje </a></li>
                              
                             </a>
                         </li>
@@ -161,21 +162,54 @@
 
 <datalist id="listademodelosDestinos">
 
+  <option value="Aguascalientes">
+
+ <option value="Baja California"> 
+
+ <option value="Baja California Sur"> 
+
+  <option value="Campeche"> 
+
+ <option value="Coahuila"> 
+
+   <option value="Chiapas"> 
+
+ <option value="Chihuahua"> 
+
+ <option value="Mexico">
+
+   <option value="Durango">
+
+  <option value="Guanajuato">
+
+  <option value="Guerrero">
+
+   <option value="Guadalajara">
+
+
+   <option value="Hidalgo">
+
+ <option value="Queretaro">
+
+ <option value="Monterrey">
+
+ <option value="San Luis Potosi">
+
+ <option value="Sinaloa"> 
+
+   <option value="Sonora"> 
+
+  <option value="Tabasco">
+
+  <option value="Tamaulipas">
+
+    <option value="Taxclara">
+
   <option value="Veracruz">
-
-  <option value="Guadalajara">
-
-  <option value="Mexico">
-
-  <option value="Sinaloa">
-
-  <option value="Monterrey">
-
-  <option value="Sonora">
-
+ 
   <option value="Yucatan">
 
-  <option value="Chihuahua">
+  <option value="Zacatecas">
 
 </datalist>
 
@@ -260,12 +294,13 @@
 </datalist>
  
 <input type="submit" name="Aceptar" value="Aceptar" class="login-submit" />
-    
+
 
 </form>
-<a href="index.php" class="login-forgot-pass1">Viajes Lupis</a>
+<a href="index.php" class="login-forgot-pass1"></a>
 <div class="underlay-photo"></div>
 <div class="underlay-black"></div>
             
+   <li><a href="cobros.php"> Pagar Viaje </a></li>
 </body>
 </html>

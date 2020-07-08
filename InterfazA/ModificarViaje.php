@@ -163,21 +163,58 @@
 
 <datalist id="listademodelosDestinos">
 
+
+  <option value="Aguascalientes">
+
+ <option value="Baja California"> 
+
+ <option value="Baja California Sur"> 
+
+  <option value="Campeche"> 
+
+ <option value="Coahuila"> 
+
+   <option value="Chiapas"> 
+
+ <option value="Chihuahua"> 
+
+ <option value="Mexico">
+
+   <option value="Durango">
+
+  <option value="Guanajuato">
+
+  <option value="Guerrero">
+
+   <option value="Guadalajara">
+
+
+   <option value="Hidalgo">
+
+ <option value="Queretaro">
+
+ <option value="Monterrey">
+
+ <option value="San Luis Potosi">
+
+ <option value="Sinaloa"> 
+
+   <option value="Sonora"> 
+
+  <option value="Tabasco">
+
+  <option value="Tamaulipas">
+
+    <option value="Taxclara">
+
   <option value="Veracruz">
-
-  <option value="Guadalajara">
-
-  <option value="Mexico">
-
-  <option value="Sinaloa">
-
-  <option value="Monterrey">
-
-  <option value="Sonora">
-
+ 
   <option value="Yucatan">
 
-  <option value="Chihuahua">
+  <option value="Zacatecas">
+
+</datalist>
+
 
 </datalist>
 

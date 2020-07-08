@@ -1,0 +1,303 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenido1{
+    background-image:url(img/tec.jpg);
+    width: 100%;
+    height:750px;
+    background-size: cover;
+    position: relative;
+    float: left;
+    display:flex;
+    flex-direction: column;
+}
+.contenido1:before{
+    content:"";
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    opacity: 0.7;
+}
+
+.contenido1 h1,h4,h2{
+    position: relative;
+    color: white;
+    
+}
+
+.contenido1 h1{
+    font-size: 60px;
+    font-family: serif;
+    text-align: center;
+}
+.contenido1 h2{
+    font-size: 30px;
+    font-family: serif;
+    text-align: center;
+}
+
+.contenido1 h4{
+    font-size: 25px;
+    font-family:serif;
+    text-align: center;
+}
+.formulario{
+    margin: auto;
+    width: 50%;
+    max-width: 500px;
+    background-color: black;
+    padding: 30px;
+    border: 1px solid rgba(0,0,0,2);
+    opacity: 0.6;
+    
+}
+
+.formulario h2{
+    text-align: center;
+    margin-bottom: 30px;
+    color:white;
+}
+input {
+    display: block;
+    padding: 15px;
+    width: 100%;
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+input [type="submit"]{
+    border: 0;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-bottom: 0;
+}
+
+
+
+.contenido1 li{
+    float: right;
+    list-style: none;
+    padding: 20px;
+    font-size: 50px;
+    
+}
+.contenido1 li:hover a{
+    color:yellowgreen;
+}
+
+.contenido1 nav{
+    float: right;
+    margin-top: 60px;
+} 
+.contenido1 a{
+    text-decoration: none;
+    font-family:serif;
+    font-size: 40%;
+        
+}
+
+
+
+.contenido4{
+    background-image:url(img/autobus.jpg);
+    width: 100%;
+    height:1000px;
+    background-size: cover;
+    position: relative;
+    
+    display:flex;
+    flex-direction: column;
+}
+
+.contenido4:before{
+    content:"";
+    width: 100%;
+    height: 100%;
+   
+    position: absolute;
+    opacity: 0.7;
+}
+.contenido4 h1{
+    position: relative;
+    font-size: 40px;
+    font-family: serif;
+    text-align: center;
+    color: white;
+}
+    
+.contenido4 p{
+    font-size: 30px;
+    font-family: serif;
+    text-align: center;
+    position: relative;
+    color: white;
+}
+
+.contenido4 tr{
+    position: relative;
+    background-color: black;
+    opacity:0.7;
+}
+.contenido4 td{
+    position: relative;
+    font-family: serif;
+    color: white;
+    text-align: center;
+}
+
+
+
+.contenido5{
+  
+    width: 100%;
+    height:1000px;
+    background-size: cover;
+    position: relative;
+    
+    display:flex;
+    flex-direction: column;
+}
+
+.contenido5:before{
+    content:"";
+    width: 100%;
+    height: 100%;
+   
+    position: absolute;
+    opacity: 0.7;
+}
+
+
+.contenido5 tr{
+    position: relative;
+    background-color: black;
+    opacity:0.7;
+}
+.contenido5 td{
+    position: relative;
+    font-family: serif;
+    color: white;
+    text-align: center;
+}
+
+
+.contenido6 h1{
+    position: relative;
+    font-size: 40px;
+    font-family: serif;
+    text-align: center;
+    color: black;
+}
+   
+
+.contenido7{
+  
+    width: 100%;
+    height:1000px;
+    background-size: cover;
+    position: relative;
+    
+    display:flex;
+    flex-direction: column;
+}
+
+.contenido7:before{
+    content:"";
+    width: 100%;
+    height: 100%;
+   
+    position: absolute;
+    opacity: 0.7;
+}
+.contenido7 h1{
+    position: relative;
+    font-size: 40px;
+    font-family: serif;
+    text-align: center;
+    color: black;
+}
+    
+.contenido7 p{
+    font-size: 30px;
+    font-family: serif;
+    text-align: center;
+    position: relative;
+    color: black;
+}
+
+.contenido7 tr{
+    position: relative;
+    background-color: black;
+    opacity:0.7;
+}
+.contenido7 td{
+    position: relative;
+    font-family: serif;
+    color: black;
+    text-align: center;
+}
+
+.contenido7 strong{
+    position: relative;
+    font-size: 40px;
+    font-family: serif;
+    text-align: center;
+    color: black;
+}
+
+
+
+.contenido19{
+  
+    width: 100%;
+    height:1000px;
+    background-size: cover;
+    position: relative;
+    
+    display:flex;
+    flex-direction: column;
+}
+
+.contenido19:before{
+    content:"";
+    width: 100%;
+    height: 100%;
+   
+    position: absolute;
+    opacity: 0.7;
+}
+.contenido19 h1{
+    position: relative;
+    font-size: 40px;
+    font-family: serif;
+    text-align: center;
+    color: white;
+}
+    
+.contenido19 p{
+    font-size: 30px;
+    font-family: serif;
+    text-align: center;
+    position: relative;
+    color: white;
+}
+
+.contenido19 tr{
+    position: relative;
+    background-color: black;
+    opacity:0.7;
+}
+.contenido19 td{
+    position: relative;
+    font-family: serif;
+    color: white;
+    text-align: center;
+}
+
+
+
+   

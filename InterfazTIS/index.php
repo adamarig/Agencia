@@ -299,7 +299,7 @@
 <div class="underlay-photo"></div>
 <div class="underlay-black"></div>
 
-<li><a href="cobros.php"> Pagar Viaje </a></li>
+<li><a href="pagos.php"> Pagar Viaje </a></li>
 
 </body>
 </html>

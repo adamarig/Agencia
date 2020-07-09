@@ -48,7 +48,7 @@
 
 
 </form>
-<a href="index.php" class="login-forgot-pass1">Banco One</a>
+<a href="pagos.php" class="login-forgot-pass1">Banco One</a>
 <a href="indexHome.html" class="login-forgot-pass">Seguir viajando</a>
 <div class="underlay-photo"></div>
 <div class="underlay-black"></div>
